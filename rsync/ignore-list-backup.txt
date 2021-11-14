@@ -1,0 +1,6 @@
+/dev
+/media
+/mnt
+/sys
+/proc
+/home
